@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vison": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

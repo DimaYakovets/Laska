@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RuntimeCS": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

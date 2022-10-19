@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="Vison.Controls.Layout.NumericBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Vison.Controls.Layout"
+             mc:Ignorable="d" 
+             d:DesignHeight="20" d:DesignWidth="100">
+    <TextBox Text="0" TextAlignment="Right" Name="Box" Background="#333" Foreground="White" BorderThickness="1" BorderBrush="#aaa"/>
+</UserControl>
